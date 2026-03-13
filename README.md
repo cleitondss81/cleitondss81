@@ -223,6 +223,18 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos. Est
 ✔ Criar novos produtos ✔ Listar produtos cadastrados ✔ Atualizar informações de produtos ✔ Remover produtos do banco de dados ✔ Integração com banco de dados PostgreSQL ✔ API REST estruturada com Spring Boot
 
 
+### 🔹 **📱 Interface Ipod com SwiftUI**
+
+🎧 iPod Clone - SwiftUI
+
+Clone do clássico iPod da Apple desenvolvido em SwiftUI, recriando a experiência de navegação com menu e player de música inspirado no dispositivo original.
+Este projeto foi desenvolvido para estudo de desenvolvimento iOS, UI/UX e arquitetura de aplicações Swift.
+
+📱 Funcionalidades • 🎵 Lista de músicas • ❤️ Sistema de favoritos • 📱 Interface inspirada no iPod clássico • 🔄 Navegação com menu estilo Apple • ⚡ Interface construída com SwiftUI • 📑 Organização de telas em componentes reutilizáveis
+
+🛠 Tecnologias Utilizadas • Swift • SwiftUI • Xcode • Arquitetura baseada em Views e Components • Sistema de navegação com TabView
+
+
 ### 🔹 **🤖 Agente de IA com Ollama**
 Agente de IA rodando no terminal ZSH/Linux usando Python e modelos locais.
 
