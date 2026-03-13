@@ -8,7 +8,7 @@
 
 **`Analista e Desenvolvedor de Software`**
 
-Me chamo Cleiton dos Santos, profissional em transição de Carreira para a área de Tecnologia, com experiência em suporte, administração, desenvolvimento e segurança. Atuo com Python, Swift, Linux, automações, IA aplicada e integrações com ERP. Busco sempre criar soluções práticas e transformar tecnologia em resultados reais.
+Me chamo Cleiton dos Santos, profissional em transição de Carreira para a área de Tecnologia, com experiência em suporte, administração, desenvolvimento e segurança. Atuo com Python, Java, Swift, Linux, automações, IA aplicada e integrações com ERP. Busco sempre criar soluções práticas e transformar tecnologia em resultados reais.
 
 ---
 
@@ -50,6 +50,15 @@ Me chamo Cleiton dos Santos, profissional em transição de Carreira para a áre
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
 <img 
