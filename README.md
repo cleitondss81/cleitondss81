@@ -176,11 +176,11 @@ Me chamo Cleiton dos Santos, profissional em transição de Carreira para a áre
           
 <img 
     align="left" 
-    alt="AZURE" 
-    title="AZURE"
+    alt="SPRING" 
+    title="SPRING"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
  />
           
 <img 
