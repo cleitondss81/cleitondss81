@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Analista+de+Sistemas;Desenvolvedor+Python+%7C+Swift+SwiftUI+iOS%7C+Java;Automação+e+IA;Analista+ERP;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Analista+de+Sistemas+ERP+Protheus;Desenvolvedor+Python+%7C+Swift+SwiftUI+iOS%7C+Java;Automação+e+IA;Analista+ERP;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 **`Analista e Desenvolvedor de Software`**
 
-Me chamo Cleiton dos Santos, profissional em transição de Carreira para a área de Tecnologia, com experiência em suporte, administração, desenvolvimento e segurança. Atuo com Python, Java, Swift, Linux, automações, IA aplicada e integrações com ERP. Busco sempre criar soluções práticas e transformar tecnologia em resultados reais.
+Me chamo Cleiton dos Santos, profissional em transição de Carreira para a área de Tecnologia, com experiência em suporte, administração, desenvolvimento e segurança. Atuo como Analista de Sistemas Protheus, Dev ADVPL, JAVA, Python, Automações, IA aplicada, MySQL. Busco sempre criar soluções práticas e transformar tecnologia em resultados reais.
 
 ---
 
